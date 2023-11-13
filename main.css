@@ -33,7 +33,7 @@ h1 {
 
 h1::after {
   position: absolute;
-  content: "";
+  /* content: ""; */
   left: -7.5px;
   top: -7.5px;
   border-width: 0 0 1em 1em;
@@ -54,8 +54,8 @@ h2 {
 h2::before {
   position: absolute;
   left: 0.4em;
-  font-weight: bold;
-  content: "\f5ad";
+  /* font-weight: bold; */
+  /* content: "\f5ad"; */
   top: 0.2em;
   font-size: 85%;
   color: var(--theme-color-2);
@@ -102,7 +102,7 @@ ul li::before {
   position: absolute;
   left: 0.5em;
   top: 0.4em;
-  font-size: 75%;
+  /* font-size: 75%;
   font-weight: bold;
-  content: "\f816";
+  content: "\f816"; */
 }
