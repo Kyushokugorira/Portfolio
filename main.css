@@ -7,7 +7,7 @@ html {
 }
 
 body {
-  background-color: #DDDDDD;
+  background-color: #EEEEEE;
   color: var(--main-foreground);
   line-height: 1.5;
   word-wrap: break-word;
@@ -36,6 +36,7 @@ h1::after {
   position: absolute;
   /* content: ""; */
   /* left: -7.5px; */
+  left: 2em; 
   top: -7.5px;
   border-width: 0 0 1em 1em;
   border-style: solid;
@@ -54,7 +55,7 @@ h2 {
 
 h2::before {
   position: absolute;
-  left: 1em; 
+  left: 2em; 
   /* font-weight: bold; */
   /* content: "\f5ad"; */
   top: 0.2em;
