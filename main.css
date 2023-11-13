@@ -7,6 +7,7 @@ html {
 }
 
 body {
+  background-color: #DDDDDD;
   color: var(--main-foreground);
   line-height: 1.5;
   word-wrap: break-word;
