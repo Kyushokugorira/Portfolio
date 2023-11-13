@@ -3,7 +3,7 @@ html {
   -webkit-text-size-adjust: 100%;
   --theme-color-1: #f50;
   --theme-color-2: #66FF99;
-  color: #454545;
+  color: #222222;
 }
 
 body {
@@ -35,7 +35,7 @@ h1 {
 h1::after {
   position: absolute;
   /* content: ""; */
-  left: -7.5px;
+  /* left: -7.5px; */
   top: -7.5px;
   border-width: 0 0 1em 1em;
   border-style: solid;
@@ -54,7 +54,7 @@ h2 {
 
 h2::before {
   position: absolute;
-  left: 0.4em;
+  /* left: 0.4em; */
   /* font-weight: bold; */
   /* content: "\f5ad"; */
   top: 0.2em;
