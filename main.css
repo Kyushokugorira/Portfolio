@@ -60,7 +60,7 @@ h2::before {
   /* content: "\f5ad"; */
   top: 0.2em;
   font-size: 100%;
-  color: var(--theme-color-2);
+  color: #3399FF;
 }
 
 strong {
